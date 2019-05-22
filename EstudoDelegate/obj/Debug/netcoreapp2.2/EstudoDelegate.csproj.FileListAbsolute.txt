@@ -1,0 +1,11 @@
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\EstudoDelegate\EstudoDelegate\bin\Debug\netcoreapp2.2\EstudoDelegate.deps.json
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\EstudoDelegate\EstudoDelegate\bin\Debug\netcoreapp2.2\EstudoDelegate.runtimeconfig.json
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\EstudoDelegate\EstudoDelegate\bin\Debug\netcoreapp2.2\EstudoDelegate.runtimeconfig.dev.json
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\EstudoDelegate\EstudoDelegate\bin\Debug\netcoreapp2.2\EstudoDelegate.dll
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\EstudoDelegate\EstudoDelegate\bin\Debug\netcoreapp2.2\EstudoDelegate.pdb
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\EstudoDelegate\EstudoDelegate\obj\Debug\netcoreapp2.2\EstudoDelegate.csprojAssemblyReference.cache
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\EstudoDelegate\EstudoDelegate\obj\Debug\netcoreapp2.2\EstudoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\EstudoDelegate\EstudoDelegate\obj\Debug\netcoreapp2.2\EstudoDelegate.AssemblyInfoInputs.cache
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\EstudoDelegate\EstudoDelegate\obj\Debug\netcoreapp2.2\EstudoDelegate.AssemblyInfo.cs
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\EstudoDelegate\EstudoDelegate\obj\Debug\netcoreapp2.2\EstudoDelegate.dll
+C:\Users\rafael.vasconcellos\Documents\Rafael\projetos\EstudoDelegate\EstudoDelegate\obj\Debug\netcoreapp2.2\EstudoDelegate.pdb
